@@ -4,9 +4,9 @@ Food Guide is a terminal-based interactive recipe management system built using 
 
 
 ## Features:
-*Interactive Menu: Navigate through predefined recipe categories and select from various dishes.
-*Custom Recipe Input: Users can add their own recipes with ingredients and instructions, stored dynamically in the system.
-*Structured Data Management: Recipes are managed using arrays and structures, enabling efficient storage and retrieval.
-*Color-Coded Output: Improved terminal readability with color-coded text for recipe names, ingredients, and instructions.
-*Dynamic Input Handling: Supports real-time user input for ingredients and steps, with options to stop input anytime.
+* Interactive Menu: Navigate through predefined recipe categories and select from various dishes.
+* Custom Recipe Input: Users can add their own recipes with ingredients and instructions, stored dynamically in the system.
+* Structured Data Management: Recipes are managed using arrays and structures, enabling efficient storage and retrieval.
+* Color-Coded Output: Improved terminal readability with color-coded text for recipe names, ingredients, and instructions.
+* Dynamic Input Handling: Supports real-time user input for ingredients and steps, with options to stop input anytime.
 
